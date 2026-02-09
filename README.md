@@ -13,7 +13,7 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="mailto:contatojardane.jl@gmail.com" title="meu gmail 📧">
+<a href="mailto:contatonayara25_dourado@hotmail.com" title="meu gmail 📧">
   <img src="https://img.shields.io/badge/EMAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -38,11 +38,13 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
 ### ⚙️ Tools Monitoring and Automation 🔧
 
 <p align="left">
-<img title="Zabbix" alt="Zabbix" width="35" src=".github/workflows/zb1.png" />&nbsp;
-<img title="Grafana" alt="Grafana" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />&nbsp;
-<img title="MikroTik" alt="MikroTik" width="32" src="https://cdn.simpleicons.org/mikrotik/FFFFFF" />&nbsp;
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img title="Docker" alt="Docker" width="32" src="< />&nbsp;
 <img title="n8n + Agentes de IA" alt="n8n" width="32" src="https://cdn.simpleicons.org/n8n/EF5A29" />&nbsp;
-<img title="Monitoramento NOC" alt="Monitor NOC" width="42" src=".github/workflows/monitor.png" />
+
 </p>
 
 ---
