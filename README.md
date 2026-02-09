@@ -1,12 +1,13 @@
-# Portf-lio
+
 # 👩🏻‍💻Nayara Dourado
 
 **`CST em Gestão da Tecnologia da Informação | HelpDesk |  | Implantação de Sistema | Dashboards BI | WordPress | SQL`**
+# 👩🏻‍💻Sobre mim
+Profissional da Tecnologia da Informação, com experiência em implantação e suporte de sistemas em ambientes públicos e privados. Atuação como usuária-chave em processos de migração, testes e homologação, além de suporte técnico, capacitações e colaboração na estruturação de portais institucionais.
 
-Profissional de Tecnologia da Informação, com experiência em Help Desk e Redes de Telecomunicações. Atuação no monitoramento proativo de ambientes tecnológicos utilizando Zabbix, Grafana e The Dude, além da configuração de ativos Mikrotik, visando estabilidade e alta disponibilidade operacional.
+Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk, e estou em constante evolução técnica, com foco em soluções web, automação de processos, dados e transformação digital.
 
-Minha trajetória integra competências técnicas e administrativas, com atuação em processos licitatórios, gestão de contratos e documentação técnica no contexto da administração pública. Atualmente, direciono meu desenvolvimento para tecnologias emergentes, com foco no estudo e aplicação de Agentes de IA e automação inteligente de processos, buscando soluções eficientes para ambientes dinâmicos e desafiadores. 
-
+🚀 Proativa, autodidata e orientada a resultados, busco aplicar e expandir minhas competências em projetos de tecnologia.
 <p align="left">
 
 <a href="https://www.instagram.com/jardane_lima/" title="Me siga 🤩">
