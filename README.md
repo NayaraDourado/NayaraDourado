@@ -10,7 +10,7 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 🚀 Proativa, autodidata e orientada a resultados, busco aplicar e expandir minhas competências em projetos de tecnologia.
 <p align="left">
 
-<a href="https://www.instagram.com/jardane_lima/" title="Me siga 🤩">
+<a href="https://www.instagram.com//" title="Me siga 🤩">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
@@ -18,15 +18,15 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
   <img src="https://img.shields.io/badge/EMAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/jardane-lima-maciel-98247a216" title="Me siga no LinkedIn 🚀">
+<a href="https://www.linkedin.com/in/nayara-dourado" title="Me siga no LinkedIn 🚀">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/jardanejl-dot?tab=followers" title="Me siga no GitHub 💞">
-  <img src="https://img.shields.io/github/followers/jardanejl-dot?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&color=23A44F&labelColor=23A44F">
+  <img src="https://img.shields.io/github/followers/NayaraDourado?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&color=23A44F&labelColor=23A44F">
 </a>
 
-<a href="https://github.com/jardanejl-dot" title="Visualiza e me segue aí 👀😅">
+<a href="https://github.com/NayaraDourdo" title="Visualiza e me segue aí 👀😅">
   <img src="https://img.shields.io/badge/PROFILE%20VIEWS-84-D4A017?style=for-the-badge&logo=github&logoColor=white&labelColor=D4A017">
 </a>
 
