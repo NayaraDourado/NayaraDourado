@@ -36,7 +36,7 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 
 ---
 
-### ⚙️ Tools Monitoring and Automation 🔧
+### ⚙️ Desenvolvimento & Automation 🔧
 
 <p align="left">
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
