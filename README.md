@@ -63,14 +63,12 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 
 ---
 
-### <img title="Yoga" width="35" src=".github/workflows/projeto.png" />&nbsp; Projetos Desenvolvidos e Participações
+### <img title="Yoga" width="35" src=".github/workflows/projeto.png" />&nbsp; Projetos Desenvolvidos e Participações ###Em construção...
 
 
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Mikrotik](https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white)
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![NOC](https://img.shields.io/badge/NOC_Monitoring-0A66C2?style=flat)
+
 
 
 #
