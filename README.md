@@ -2,7 +2,7 @@
 # 👩🏻‍💻Nayara Dourado 
 
 
-**`CST em Gestão da Tecnologia da Informação | HelpDesk |  | Implantação de Sistema | Dashboards BI | WordPress | SQL`**
+**`Gestão da Tecnologia da Informação | HelpDesk |  | Implantação de Sistema | Dashboards BI | WordPress | SQL`**
   
 # 🦉Sobre mim
 
