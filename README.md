@@ -56,7 +56,6 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 ### 💡Hobbies
 
 <p align="left">
-  <img title="Investimentos" width="35" src="https://api.iconify.design/noto:chart-increasing.svg" />&nbsp;
   <img title="Yoga" width="35" src="https://api.iconify.design/noto:person-in-lotus-position.svg" />&nbsp;
   <img title="Pilates" width="35" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f938.svg" />&nbsp;
 </p>
