@@ -17,7 +17,7 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="mailto:contatonayara25_dourado@hotmail.com" title="meu gmail 📧">
+<a href="mailto:nayara25_dourado@hotmail.com" title="meu gmail 📧">
   <img src="https://img.shields.io/badge/EMAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -25,7 +25,7 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/jardanejl-dot?tab=followers" title="Me siga no GitHub 💞">
+<a href="https://github.com/NayaraDourado?tab=followers" title="Me siga no GitHub 💞">
   <img src="https://img.shields.io/github/followers/NayaraDourado?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&color=23A44F&labelColor=23A44F">
 </a>
 
