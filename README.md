@@ -63,9 +63,7 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 
 ---
 
-### <img title="Yoga" width="35" src=".github/workflows/projeto.png" />&nbsp; Projetos Desenvolvidos e Participações ###Em construção...
-
-
+### <img align="center" title="project" height="30" width="40" src="https://github.com/NayaraDourado/NayaraDourado/blob/main/project.png" />&nbsp; Projetos Desenvolvidos e Participações ###Em construção...
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
