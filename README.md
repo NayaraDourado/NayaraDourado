@@ -56,9 +56,9 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 ### 💡Hobbies
 
 <p align="left">
-  <img align="center" title="Yoga" width="35" src="https://api.iconify.design/noto:person-in-lotus-position.svg" />&nbsp;
-  <img align="center" title="Pilates" width="35" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f938.svg" />&nbsp;
-  <img align="center" title="project" height="30" width="40" src="https://github.com/NayaraDourado/NayaraDourado/blob/main/project.png" />&nbsp;
+  <img align="center" title="Yoga" height="30" width="35" src="https://api.iconify.design/noto:person-in-lotus-position.svg" />&nbsp;
+  <img align="center" title="Pilates" height="30" width="35" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f938.svg" />&nbsp;
+  <img align="center" title="Caminhar" height="30" width="40" src="https://github.com/NayaraDourado/NayaraDourado/blob/main/andar.png" />&nbsp;
 </p>
 
 ---
