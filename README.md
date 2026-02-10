@@ -1,13 +1,16 @@
 
-# 👩🏻‍💻Nayara Dourado
+# 👩🏻‍💻Nayara Dourado 
+
 
 **`CST em Gestão da Tecnologia da Informação | HelpDesk |  | Implantação de Sistema | Dashboards BI | WordPress | SQL`**
-# 👩🏻‍💻Sobre mim
+  
+# 🦉Sobre mim
+
 Profissional da Tecnologia da Informação, com experiência em implantação e suporte de sistemas em ambientes públicos e privados. Atuação como usuária-chave em processos de migração, testes e homologação, além de suporte técnico, capacitações e colaboração na estruturação de portais institucionais.
 
 Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk, e estou em constante evolução técnica, com foco em soluções web, automação de processos, dados e transformação digital.
 
-🚀 Proativa, autodidata e orientada a resultados, busco aplicar e expandir minhas competências em projetos de tecnologia.
+🚀Atuação orientada à aplicação prática e ao desenvolvimento contínuo de competências técnicas em projetos de tecnologia.
 <p align="left">
 
 <a href="https://www.instagram.com//" title="Me siga 🤩">
@@ -32,7 +35,6 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 
 
 </p>
-
 
 ---
 
