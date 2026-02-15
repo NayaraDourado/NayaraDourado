@@ -1,9 +1,12 @@
-
+<div>
+    <h2 align="center">Olá 👋Sejam bem vindos ao meu GitHub</h2>
+</div>
 # 👩🏻‍💻Nayara Dourado  
 
 **`Gestão da Tecnologia da Informação | HelpDesk |  | Implantação de Sistema | Dashboards BI | WordPress | SQL`**
 
-<h2 align="center">Olá 👋Sejam bem vindos ao meu GitHub</h2>
+
+
 
   
 # 🦉Sobre mim
@@ -105,25 +108,12 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NayaraDourado/NayaraDourado/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NayaraDourado/NayaraDourado/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NayaraDourado/NayaraDourado/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-
-
-
+<img src="https://raw.githubusercontent.com/NayaraDourado/NayaraDourado/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.comNayaraDourado/NayaraDourado/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NayaraDourado/NayaraDourado/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NayaraDourado/NayaraDourado/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 
