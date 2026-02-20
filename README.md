@@ -109,9 +109,3 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NayaraDourado/NayaraDourado/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/NayaraDourado/NayaraDourado/output/snake.svg" alt="Snake animation" />
-
-###
-
