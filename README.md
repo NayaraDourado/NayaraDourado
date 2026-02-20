@@ -1,5 +1,5 @@
 <div align="center">
-<img height="300" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ3bGE2c2M5OXAxaXB0aWNucTlsNDM3bWNqaW5teTV6enpyMDlpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2Pr3ZBjApEwIGZaAs2/giphy.gif">
+<img height="250" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ3bGE2c2M5OXAxaXB0aWNucTlsNDM3bWNqaW5teTV6enpyMDlpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2Pr3ZBjApEwIGZaAs2/giphy.gif">
 </div>
 <div>
     <h2 align="center">Olá!! <img align="center" height="80" width="80"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdid3BqYXZ4azU4ZWFvc3d4cnRrbDk5MXljNTBhZGwybmEyOGVrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DX7CsFhBt86tw5gewr/giphy.gif"/>Sejam bem vindos ao meu GitHub</h2>
@@ -7,7 +7,6 @@
 # 👩🏻‍💻Nayara Dourado  
 
 **`Gestão da Tecnologia da Informação | HelpDesk |  | Implantação de Sistema | Dashboards BI | WordPress | SQL`**
-
   
 # 🦉Sobre mim
 
