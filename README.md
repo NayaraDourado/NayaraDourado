@@ -5,9 +5,6 @@
 
 **`Gestão da Tecnologia da Informação | HelpDesk |  | Implantação de Sistema | Dashboards BI | WordPress | SQL`**
 
-
-
-
   
 # 🦉Sobre mim
 
@@ -41,10 +38,12 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 
 </p>
 
+
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NayaraDourado&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=NayaraDourado&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /
   
 </div>
 
@@ -102,6 +101,8 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 ### <img align="center" title="project" height="30" width="40" src="img/project.png" />&nbsp; Projetos Desenvolvidos e Participações ###Em construção...
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NayaraDourado/NayaraDourado/output/pacman-contribution-graph-dark.svg">
