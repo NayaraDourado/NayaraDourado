@@ -47,6 +47,7 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 </div>
 
 ---
+<img height="150" width="140" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwN3pjZGE2NmRlOTRzZHhnNHJxNXByNTh5NWlwdTduM3pqa2RzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 ### ⚙️ Desenvolvimento & Automation 🔧
 
@@ -91,7 +92,7 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 
 ---
 
-<p align="left">
+<p align="center">
   <img align="center" title="Yoga" height="30" width="35" src="https://api.iconify.design/noto:person-in-lotus-position.svg" />&nbsp;
   <img align="center" title="Pilates" height="30" width="35" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f938.svg" />&nbsp;
   <img align="center" title="Caminhar" height="30" width="40" src="img/andar.png" />&nbsp;
