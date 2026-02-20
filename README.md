@@ -4,6 +4,7 @@
 <div>
     <h2 align="center">Olá!! <img align="center" height="80" width="80"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdid3BqYXZ4azU4ZWFvc3d4cnRrbDk5MXljNTBhZGwybmEyOGVrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DX7CsFhBt86tw5gewr/giphy.gif"/>Sejam bem vindos ao meu GitHub</h2>
 </div>
+
 # 👩🏻‍💻Nayara Dourado  
 
 **`Gestão da Tecnologia da Informação | HelpDesk |  | Implantação de Sistema | Dashboards BI | WordPress | SQL`**
@@ -15,12 +16,14 @@ Profissional da Tecnologia da Informação, com experiência em implantação e 
 Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk, e estou em constante evolução técnica, com foco em soluções web, automação de processos, dados e transformação digital.
 
 🚀Atuação orientada à aplicação prática e ao desenvolvimento contínuo de competências técnicas em projetos de tecnologia.
-<p align="left">
+
+<br>
+
+<p align="center">
 
 <a href="https://www.instagram.com//" title="Me siga 🤩">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
 <a href="mailto:nayara25_dourado@hotmail.com" title="meu gmail 📧">
   <img src="https://img.shields.io/badge/EMAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -36,10 +39,7 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 <a href="https://github.com/NayaraDourdo" title="Visualiza e me segue aí 👀😅">
   <img src="https://img.shields.io/badge/PROFILE%20VIEWS-84-D4A017?style=for-the-badge&logo=github&logoColor=white&labelColor=D4A017">
 </a>
-
-
 </p>
-
 
 ###
 
@@ -52,7 +52,7 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 <img height="150" width="140" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwN3pjZGE2NmRlOTRzZHhnNHJxNXByNTh5NWlwdTduM3pqa2RzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 ### ⚙️ Desenvolvimento & Automation 🔧
-
+---
 <div align="center">
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="40" alt="wordpress logo"  />
@@ -88,7 +88,7 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 </p>
 </div>
 
----
+
 
 ### 💡Hobbies
 
@@ -104,11 +104,11 @@ Tenho experiência com WordPress, Protheus, LDAP, Moodle, ELO (TSE) e Help Desk,
 
 
 ### <img align="center" title="project" height="30" width="40" src="img/project.png" />&nbsp; Projetos Desenvolvidos e Participações ###Em construção...
+---
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+<br><br>
 
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NayaraDourado/NayaraDourado/output/pacman-contribution-graph-dark.svg">
