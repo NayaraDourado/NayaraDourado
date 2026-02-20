@@ -1,5 +1,6 @@
+
 <div>
-    <h2 align="center">Olá 👋Sejam bem vindos ao meu GitHub</h2>
+    <h2 align="center">Olá!! <img align="center" height="80" width="80"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdid3BqYXZ4azU4ZWFvc3d4cnRrbDk5MXljNTBhZGwybmEyOGVrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DX7CsFhBt86tw5gewr/giphy.gif"/>Sejam bem vindos ao meu GitHub</h2>
 </div>
 # 👩🏻‍💻Nayara Dourado  
 
